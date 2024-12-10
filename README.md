@@ -31,7 +31,7 @@ Utilize SQL to solve critical business questions and translate data findings int
 8.	Find the number of orders placed in each city. Sort the results in descending order based on the number of orders.
 9.	Find the names of restaurants that have at least one menu item with a price greater than $10.
 10.	Retrieve the user names and their corresponding orders where the order total is greater than the average order total for all users.
-11.	List the names of users whose last names start with 'S' or ends with ‘e’.
+11.	List the names of users whose last names start with 'S' or ends with 'e'.
 12.	Find the total order amounts for each restaurant. If a restaurant has no orders, display the restaurant name and a total amount of 0.
 13.	Find out how many orders were placed using cash or credit.
 
